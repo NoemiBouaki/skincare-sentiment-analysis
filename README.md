@@ -3,7 +3,7 @@
 Sentiment analysis of 859 Trustpilot reviews collected across 5 skincare brands,
 combining web scraping, NLP, and interactive data visualization.
 
-**Live dashboard → [Insert Streamlit link here]**
+**Live dashboard → http://localhost:8501/**
 
 ---
 
@@ -122,4 +122,4 @@ Built as a portfolio project demonstrating end-to-end data analysis skills:
 data collection, cleaning, NLP, and interactive visualization.
 
 Open to freelance data analysis and NLP projects.
-→ [Your Upwork profile link here]
+→ https://www.upwork.com/freelancers/~01e082c5faa6215ed5?mp_source=share 
