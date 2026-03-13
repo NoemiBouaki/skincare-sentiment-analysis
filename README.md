@@ -3,7 +3,7 @@
 Sentiment analysis of 859 Trustpilot reviews collected across 5 skincare brands,
 combining web scraping, NLP, and interactive data visualization.
 
-**Live dashboard → http://localhost:8501/**
+**Live dashboard → https://skincare-sentimrnt-analysis.streamlit.app/**
 
 ---
 
